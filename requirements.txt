@@ -1,0 +1,45 @@
+asttokens==2.2.1
+backcall==0.2.0
+brotlipy @ file:///D:/bld/brotlipy_1666764815687/work
+certifi==2022.12.7
+cffi @ file:///D:/bld/cffi_1671179514672/work
+charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1661170624537/work
+colorama==0.4.6
+contourpy==1.0.7
+cryptography @ file:///D:/bld/cryptography-split_1677821504498/work
+cycler==0.11.0
+decorator==5.1.1
+executing==1.2.0
+fonttools==4.38.0
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1663625384323/work
+importlib-resources==5.12.0
+ipython==8.11.0
+jedi==0.18.2
+kiwisolver==1.4.4
+matplotlib==3.7.1
+matplotlib-inline==0.1.6
+numpy @ file:///D:/bld/numpy_1675642778044/work
+packaging==23.0
+parso==0.8.3
+pickleshare==0.7.5
+Pillow @ file:///D:/bld/pillow_1675487347122/work
+prompt-toolkit==3.0.38
+pure-eval==0.2.2
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1636257122734/work
+pygame @ file:///D:/bld/pygame_1677570989799/work
+Pygments==2.14.0
+pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1672659226110/work
+pyparsing==3.0.9
+PySocks @ file:///D:/bld/pysocks_1661604991356/work
+python-dateutil==2.8.2
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1673863902341/work
+six==1.16.0
+stack-data==0.6.2
+torch==1.13.1
+torchvision==0.14.1
+traitlets==5.9.0
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1665144421445/work
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1673452138552/work
+wcwidth==0.2.6
+win-inet-pton @ file:///D:/bld/win_inet_pton_1667051142467/work
+zipp==3.15.0
